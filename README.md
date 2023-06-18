@@ -10,6 +10,6 @@ The algorithm we use here:
   2. Apply PSOLA on each subband independently.
   3. Sum the subbands.
 
-See `main.py` for a simple usage example.
+See `main.py` for a simple usage example. See samples for a few input / output samples.
 
 The algorithm may easily be extended to arbitrary time stretching (the PSOLA method should be adjusted accordingly).
